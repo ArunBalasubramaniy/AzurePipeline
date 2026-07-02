@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleprojectAzurepipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64ef89b8811f59e941d55a6b3c423353405f31f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleprojectAzurepipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleprojectAzurepipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -523,11 +523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\SampleprojectAzurepipeline\\SampleprojectAzurepipeline.csproj",
+      "projectUniqueName": "D:\\US_Interview\\sampleapp\\ganesh\\AzurePipeline\\SampleprojectAzurepipeline.csproj",
       "projectName": "SampleprojectAzurepipeline",
-      "projectPath": "D:\\Project\\SampleprojectAzurepipeline\\SampleprojectAzurepipeline.csproj",
+      "projectPath": "D:\\US_Interview\\sampleapp\\ganesh\\AzurePipeline\\SampleprojectAzurepipeline.csproj",
       "packagesPath": "C:\\Users\\arun_\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\SampleprojectAzurepipeline\\obj\\",
+      "outputPath": "D:\\US_Interview\\sampleapp\\ganesh\\AzurePipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
